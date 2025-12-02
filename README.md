@@ -4,6 +4,10 @@
 
 Developed a complete Library Management System using SQL by designing normalized tables, defining primary–foreign key relationships. Implemented data cleaning, constraints and relational modeling to simulate real library operations. Executed multiple analytical queries to extract actionable insights on book circulation, members, employees and branch performance.
 
+<h2>Table Model View :</h2>
+
+![Relationship Model](https://github.com/Saikat-Dass/Library_Management_System_using_SQL/blob/de0d3400388adf6ef886452ae710b9dec9ad23bc/Relationship%20Model/Relationship%20model.png)
+
 <h2>Tools used to dive into the data analyst job market :</h2>
 
 1. MySQL
